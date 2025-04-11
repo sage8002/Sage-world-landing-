@@ -1,0 +1,34 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #0a1a2f;
+    color: #f4f4f4;
+    text-align: center;
+}
+header {
+    padding: 40px 20px;
+}
+.logo {
+    max-width: 120px;
+}
+.tagline {
+    font-style: italic;
+    color: #00bfff;
+}
+.intro {
+    padding: 20px;
+}
+.buttons a {
+    margin: 10px;
+    padding: 12px 20px;
+    background-color: #00bfff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+footer {
+    padding: 20px;
+    font-size: 14px;
+    background-color: #08121e;
+}
